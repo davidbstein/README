@@ -1,2 +1,10 @@
-# README
-Entry point to my github
+# Hi there!
+
+My name is Stein. I have a number of projects, most of them only half-finished.
+
+I also have a [website](//davidbstein.com).
+
+
+# Projects
+
+`#TODO: put a list of projects and decriptions here`
